@@ -1,4 +1,4 @@
-package it.epicode.Interface;
+package it.epicode.interfacce;
 
 public interface Luminosita {
     public void alzaLuminosita();

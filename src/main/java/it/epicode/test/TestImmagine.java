@@ -1,6 +1,6 @@
-package it.epicode.Test;
+package it.epicode.test;
 
-import it.epicode.Classi.Immagine;
+import it.epicode.classi.Immagine;
 
 import java.util.Scanner;
 

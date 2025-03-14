@@ -1,4 +1,4 @@
-package it.epicode.Classi;
+package it.epicode.classi;
 
 
 import lombok.Getter;

@@ -1,8 +1,8 @@
-package it.epicode.Test;
+package it.epicode.test;
 
-import it.epicode.Enum.LimitiLuminosita;
-import it.epicode.Enum.LimitiVolume;
-import it.epicode.Classi.Video;
+import it.epicode.enums.LimitiLuminosita;
+import it.epicode.enums.LimitiVolume;
+import it.epicode.classi.Video;
 import java.util.Scanner;
 
 public class TestVideo {

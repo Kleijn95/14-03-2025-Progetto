@@ -1,7 +1,7 @@
-package it.epicode.Classi;
+package it.epicode.classi;
 
-import it.epicode.Enum.LimitiLuminosita;
-import it.epicode.Interface.Luminosita;
+import it.epicode.enums.LimitiLuminosita;
+import it.epicode.interfacce.Luminosita;
 import lombok.Getter;
 import lombok.ToString;
 
@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 @Getter
 @ToString
-public class Immagine extends it.epicode.Classi.ElementoMultimediale implements Luminosita {
+public class Immagine extends it.epicode.classi.ElementoMultimediale implements Luminosita {
     private int luminosita;
 
     public Immagine(String titolo, int luminosita) {

@@ -1,7 +1,7 @@
-package it.epicode.Test;
+package it.epicode.test;
 
-import it.epicode.Enum.LimitiVolume;
-import it.epicode.Classi.RegistrazioneAudio;
+import it.epicode.enums.LimitiVolume;
+import it.epicode.classi.RegistrazioneAudio;
 import java.util.Scanner;
 
 public class TestRegistrazioneAudio {

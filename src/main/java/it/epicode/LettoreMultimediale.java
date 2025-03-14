@@ -1,11 +1,11 @@
 package it.epicode;
 
-import it.epicode.Classi.ElementoMultimediale;
-import it.epicode.Classi.Immagine;
-import it.epicode.Classi.RegistrazioneAudio;
-import it.epicode.Classi.Video;
-import it.epicode.Enum.LimitiVolume;
-import it.epicode.Interface.Riproducibile;
+import it.epicode.classi.ElementoMultimediale;
+import it.epicode.classi.Immagine;
+import it.epicode.classi.RegistrazioneAudio;
+import it.epicode.classi.Video;
+import it.epicode.enums.LimitiVolume;
+import it.epicode.interfacce.Riproducibile;
 
 import java.util.Scanner;
 
@@ -134,6 +134,7 @@ public class LettoreMultimediale {
             int scelta = scanner.nextInt();
 
             if (scelta == 0) {
+                System.out.println("Programma terminato.");
                 break;
             }
 

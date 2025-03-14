@@ -1,8 +1,8 @@
-package it.epicode.Classi;
+package it.epicode.classi;
 
-import it.epicode.Enum.LimitiVolume;
-import it.epicode.Interface.Riproducibile;
-import it.epicode.Interface.Volume;
+import it.epicode.enums.LimitiVolume;
+import it.epicode.interfacce.Riproducibile;
+import it.epicode.interfacce.Volume;
 import lombok.Getter;
 import lombok.ToString;
 

@@ -1,4 +1,4 @@
-package it.epicode.Enum;
+package it.epicode.enums;
 
 import lombok.Getter;
 
